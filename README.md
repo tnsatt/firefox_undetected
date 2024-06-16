@@ -1,6 +1,5 @@
 # firefox_undetected
 
-#Test 
 
 [https://bot.sannysoft.com/](https://bot.sannysoft.com/)
 
