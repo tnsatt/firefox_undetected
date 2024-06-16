@@ -1,8 +1,8 @@
 # firefox_undetected
 
 ## Python Example:
-driver = FirefoxDriver()
-driver.install_addon("/path/to/Undetected.zip")
+> driver = FirefoxDriver()
+> driver.install_addon("/path/to/Undetected.zip")
 
 [https://bot.sannysoft.com/](https://bot.sannysoft.com/)
 
