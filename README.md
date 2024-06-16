@@ -4,4 +4,4 @@
 
 [https://bot.sannysoft.com/](https://bot.sannysoft.com/)
 
-[Imgur](https://imgur.com/c4VcLeH)
+![alt text](https://raw.githubusercontent.com/tnsatt/firefox_undetected/main/test.png)
