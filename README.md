@@ -1,7 +1,9 @@
 # firefox_undetected
 
 ## Python Example:
-> driver = FirefoxDriver()
+> from selenium.webdriver import Firefox
+> 
+> driver = Firefox()
 > 
 > driver.install_addon("/path/to/Undetected.zip")
 
