@@ -4,4 +4,4 @@
 
 [https://bot.sannysoft.com/](https://bot.sannysoft.com/)
 
-![alt text](https://imgur.com/download/c4VcLeH/)
+[Imgur](https://imgur.com/c4VcLeH)
